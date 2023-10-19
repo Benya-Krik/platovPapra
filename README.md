@@ -1,4 +1,4 @@
-# my-project
+# Parpa
 
 ## Project setup
 ```
